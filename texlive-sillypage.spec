@@ -1,6 +1,6 @@
 Name:		texlive-sillypage
 Version:	64034
-Release:	1
+Release:	2
 Summary:	John Cleese's Silly Walk as page numbering style
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sillypage
