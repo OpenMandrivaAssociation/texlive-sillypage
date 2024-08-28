@@ -1,5 +1,5 @@
 Name:		texlive-sillypage
-Version:	66349
+Version:	71889
 Release:	1
 Summary:	John Cleese's Silly Walk as page numbering style
 Group:		Publishing
