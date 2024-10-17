@@ -3,7 +3,7 @@ Version:	71889
 Release:	1
 Summary:	John Cleese's Silly Walk as page numbering style
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sillypage
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/sillypage
 License:	cc-by-sa-4 lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sillypage.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sillypage.doc.r%{version}.tar.xz
